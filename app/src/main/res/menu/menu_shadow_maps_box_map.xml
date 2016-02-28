@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.shadowmaps.shadowmapsbox.ShadowMapsBoxMap" >
+    <item android:id="@+id/map_circles"
+        android:title="Draw Circles"
+        android:checkable="true"
+        />
+</menu>
